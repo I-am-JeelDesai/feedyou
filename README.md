@@ -4,11 +4,13 @@
 By Jeel J. Desai
 
 ## Status
-This project still in "Beta" and it's UI is still not final.... Currently working to convert the UI to Material You 3 based with Monet theming support. Stay Tuned.
+This project is currently in beta and the user interface (UI) is still under development. I am working to convert the UI to Material You 3, which is a new design language from Google that allows for more personalized and dynamic experiences. I will provide updates on the progress of this work as it becomes available. Thank you for your patience and understanding.
 
 <hr>
 
-FeedYOU is open-source project, built for my college project..... i will continue updating it with new features. 
+FeedYOU is an open-source project that I developed as part of my college project. I am continuing to update it with new features and improvements. The project is still in beta, so I am always open to feedback.
+
+<br>
 
 Screenshots
 
