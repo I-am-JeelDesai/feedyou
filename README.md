@@ -8,10 +8,12 @@ This project still in "Beta" and it's UI is still not final.... Currently workin
 
 <hr>
 
-FeedYOU is OPEN SOURCE app, built for my college project..... i will continue updating it with new features. 
+FeedYOU is open-source project, built for my college project..... i will continue updating it with new features. 
 
 Screenshots
-<img width="250" src="Screenshot-1.jpg"> <img width="250" src="Screenshot-2.jpg"> <img width="250" src="Screenshot-3.jpg">
+
+
+<img width="250" src="Screenshot-1.jpg">  <img width="250" src="Screenshot-2.jpg"> <img width="250" src="Screenshot-3.jpg">
 
 <h3>Features</h3>
 <ul>
