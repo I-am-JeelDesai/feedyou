@@ -1,22 +1,16 @@
 
-# NiceFeed
+# FeedYOU
+
+By Jeel J. Desai
 
 ## Status
-Sorry about all the unaddressed issues, but due to more important commitments this project is no longer being maintained. I started this as a casual personal project while learning to code, and I'm grateful for your interest and contributions.
+This project still in "Beta" and it's UI is still not final.... Currently working to convert the UI to Material You 3 based with Monet theming support. Stay Tuned.
 
 <hr>
 
-NiceFeed is available on Google Play on Beta. It is also available on F-Droid for non-Play Store users.
+FeedYOU is OPEN SOURCE app, built for my college project..... i will continue updating it with new features. 
 
-<a href='https://play.google.com/store/apps/details?id=com.joshuacerdenia.android.nicefeed&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height="80" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
-<a href="https://f-droid.org/packages/com.joshuacerdenia.android.nicefeed/">
-    <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-    alt="Get it on F-Droid"
-    height="80">
-</a>
-
-
-Some older screenshots that need to be updated:<br><br>
+Screenshots
 <img width="250" src="Screenshot-1.jpg"> <img width="250" src="Screenshot-2.jpg"> <img width="250" src="Screenshot-3.jpg">
 
 <h3>Features</h3>

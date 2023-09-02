@@ -7,11 +7,11 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.joshuacerdenia.android.nicefeed"
+        applicationId "com.jeeldesai.android.feedyou"
         minSdkVersion 23
         targetSdkVersion 32
         versionCode 19
-        versionName "1.0.0-beta08"
+        versionName "1.0.0-beta-AIT-PROJECT-J.Desai"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 

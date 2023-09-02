@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">NiceFeed</string>
+    <string name="app_name">FeedYOU</string>
     <string name="sample_feed_url">www.example.com/feed</string>
     <string name="add_feed_by_url">Tambah URL umpan</string>
     <string name="feed_already_added">Umpan tersebut sudah ditambahkan.</string>
@@ -23,7 +23,7 @@
     <string name="select_all">Pilih Semua</string>
     <string name="sort">Urutkan</string>
     <string name="confirm">Konfirmasi</string>
-    <string name="about_nicefeed">Tentang NiceFeed</string>
+    <string name="about_feedyou">Tentang FeedYOU</string>
     <string name="edit_category">Sunting Kategori</string>
     <string name="number_selected">%d dipilih</string>
     <string name="edit_category_dialog_message">Perubahan akan diterapkan ke %s.</string>
@@ -66,9 +66,7 @@
     <string name="confirm_import_title">Impor %s?</string>
     <string name="confirm_import_message">Ini tidak akan menimpa ulang langganan yang ada.</string>
     <string name="import_opml">Impor OPML</string>
-    <string name="about_nicefeed_detail">
-        NiceFeed adalah aplikasi sumber terbuka yang dikembangkan oleh Joshua Cerdenia.
-        Silakan kunjungi github.com/joshuacerdenia/nicefeed untuk informasi lebih lanjut.
+    <string name="about_feedyou_detail">
     </string>
     <string name="check_for_updates">Periksa Pembaruan</string>
     <string name="share_entry">Bagikan Entri</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NiceFeed</string>
+    <string name="app_name">FeedYOU</string>
     <string name="sample_feed_url">www.example.com/feed</string>
     <string name="add_feed_by_url">Add feed by URL</string>
     <string name="feed_already_added">That feed has already been added.</string>
@@ -23,7 +23,7 @@
     <string name="select_all">Select All</string>
     <string name="sort">Sort</string>
     <string name="confirm">Confirm</string>
-    <string name="about_nicefeed">About NiceFeed</string>
+    <string name="about_feedyou" translatable="false">About FeedYOU</string>
     <string name="edit_category">Edit Category</string>
     <string name="number_selected">%d selected</string>
     <string name="edit_category_dialog_message">Change will be applied to %s.</string>
@@ -66,9 +66,9 @@
     <string name="confirm_import_title">Import %s?</string>
     <string name="confirm_import_message">This will not overwrite existing subscriptions.</string>
     <string name="import_opml">Import OPML</string>
-    <string name="about_nicefeed_detail">
-        NiceFeed is an open-source app originally developed by Joshua Cerdenia.
-        Please visit github.com/joshuacerdenia/nicefeed for information.
+    <string name="about_feedyou_detail" translatable="false">
+        FeedYou is an open-source app originally developed by Jeel Desai.
+        Please visit github.com/I-am-JeelDesai/feedyou for information.
     </string>
     <string name="check_for_updates">Check for Updates</string>
     <string name="share_entry">Share Entry</string>
